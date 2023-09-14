@@ -1,4 +1,12 @@
-body{
-
+body {
 }
 
+div {
+  border: 2px solid #d6001c;
+  border-radius: 10px;
+}
+
+#div-bakgrund {
+  background-image: url(images/snow_winter_trees.jpg);
+  
+}
