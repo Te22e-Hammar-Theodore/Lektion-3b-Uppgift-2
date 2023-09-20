@@ -4,6 +4,7 @@ body {
 div {
   border: 2px solid #d6001c;
   border-radius: 10px;
+  margin: 3px;
 }
 
 #div-bakgrund {
@@ -66,4 +67,9 @@ h1 {
 
 img {
   border-radius: 10px;
+}
+
+#sidfot {
+  display: flex;
+  justify-content: center;
 }
