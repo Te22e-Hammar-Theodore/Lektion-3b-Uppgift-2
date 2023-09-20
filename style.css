@@ -55,4 +55,11 @@ h1 {
 #main {
   width: 90%;
 }
-#höger{width: 5%;}
+#höger {
+  width: 5%;
+}
+
+#höger img {
+  width: 100%;
+  height: 400px;
+}
